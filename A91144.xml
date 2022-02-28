@@ -1,0 +1,218 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ardua Regni: or, XII. arduous doubts of great concernment to the Kingdome, requiring a full and speedy resolution : propounded to M. Speaker, and the House of Commons, touching some of their late proceedings against their own suspended, ejected members, and the impeached Lords.</title>
+            <author>Prynne, William, 1600-1669.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91144</idno>
+            <idno type="STC">Wing P3895</idno>
+            <idno type="STC">Thomason E429_5</idno>
+            <idno type="STC">ESTC R204618</idno>
+            <idno type="EEBO-CITATION">99864083</idno>
+            <idno type="PROQUEST">99864083</idno>
+            <idno type="VID">116302</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91144)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116302)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 67:E429[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Ardua Regni: or, XII. arduous doubts of great concernment to the Kingdome, requiring a full and speedy resolution : propounded to M. Speaker, and the House of Commons, touching some of their late proceedings against their own suspended, ejected members, and the impeached Lords.</title>
+                  <author>Prynne, William, 1600-1669.</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeere 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Anonymous. Attributed to William Prynne.</note>
+                  <note>Annotation on Thomason copy: "Feb: 25", "1647"; the 8 in imprint date is crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Expulsion --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:116302:1"/>
+               <pb facs="tcp:116302:1" rendition="simple:additions"/>
+               <hi>Ardua Regni: OR,</hi> XII. Arduous Doubts Of great Concernment to the KINGDOME, Requiring a full and ſpeedy Reſolution: <hi>Propounded to M. Speaker, and the Houſe of Commons,</hi> Touching ſome of their late Proceedings againſt their own Suſpended, Ejected Mem<g ref="char:EOLhyphen"/>bers, and the Impeached Lords.</p>
+            <p>Printed in the Yeere 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:116302:2"/>
+            <pb n="1" facs="tcp:116302:2"/>
+            <head>Twelve arduous Doubts of great Concernment to the whole Kingdome, requiring a full and ſpeedy Reſolution: <hi>Propounded to M. Speaker and the Houſe of Commons.</hi>
+            </head>
+            <p n="1">1 BY what Law or Authority can the <hi>Houſe of Com<g ref="char:EOLhyphen"/>mons</hi> alone, without the concurrent aſſent and Judgment of the <hi>King</hi> and <hi>Lords</hi> (the only pro<g ref="char:EOLhyphen"/>per <hi>Iudges</hi> in <hi>Parliament)</hi> eject or ſuſpend the late impeached <hi>Members,</hi> or any other, having no power of <hi>Iudicature</hi> in themſelves alone, nor authority to exa<g ref="char:EOLhyphen"/>nime <hi>Witneſſes upon Oath,</hi> as all other <hi>Courts of Judicature</hi> have, and being all equally impowered, and intruſted by the <hi>Countries, Cities</hi> and <hi>Burroughs</hi> for which they ſerve, and <note n="*" place="margin">
+                  <hi>Cromptons Iuriſdiction, p.</hi> 1, 2.</note> 
+               <hi>ſummoned to the Parliament by Writ, onely to adviſe and conſult together with the King and Lords, about the ar<g ref="char:EOLhyphen"/>duous</hi> 
+               <note place="margin">
+                  <hi>Cook</hi> 4: <hi>Inſtit: c:</hi> 1:</note> 
+               <hi>and urgent affaires of the Realme and Church of Eng<g ref="char:EOLhyphen"/>land,</hi> not to ſuſpend, nor expell one another the Houſe? And being all but equalls, whether one <hi>Iustice of Peace, of Aſſize, Iudge of the Kings Bench or Common Pleas, Com<g ref="char:EOLhyphen"/>miſſioner of Oyer and Terminer, Sewers, Committee-man, Grand-Iury man,</hi> and the like, may not as lawfully diſplace &amp; thruſt out another by their own Authority, without the <hi>Kings, Parliaments,</hi> or <hi>Lord Keepers</hi> conſents and advice, as one Commoner ſuſpend or put another out of the Commons Houſe, without the Kings and Lords aſſents, ſince <hi>Par in parem non habet imperium;</hi> and no Freeman by <hi>Magna Charta</hi> ought to be outed of his <hi>Liberties</hi> or <hi>free Customes, but by the lawfull Iudgment of his Peeres</hi> (in a legall way) <hi>or by the Law of the Land;</hi> and that in ſome <note place="margin">
+                  <hi>Cooke</hi> 4: <hi>Inſtit: c:</hi> 1: <hi>p:</hi> 11, 24:</note> Court of <hi>Record</hi> and <hi>Iudicature,</hi> which the Houſe of Com<g ref="char:EOLhyphen"/>mons alone is not; no Writs of <hi>Error</hi> nor other <hi>Records</hi>
+               <pb n="2" facs="tcp:116302:3"/>
+being returned before them? and they being the grand <hi>Inquiſitors only of the Realm to inquire and impeach offenders,</hi> not <hi>Iudges</hi> to cenſure or condemn them, whoſe impeach<g ref="char:EOLhyphen"/>ments they are onely to tranſmit to the <hi>King</hi> and <hi>Lords</hi> to <hi>judge</hi> and <hi>determine.</hi>
+            </p>
+            <p n="2">2. Whether this ejection and ſuſpention of Members by their Fellow-Members, without confeſſion, or legall conviction upon Oath, be not a late <hi>dangerous innovation,</hi> and <hi>tyrannicall uſurpation</hi> upon the <hi>Subjects</hi> and <hi>peoples Li<g ref="char:EOLhyphen"/>berties,</hi> depriveing them of the benefit and freedome of enjoying the counſell and advice of thoſe Knights, Citi<g ref="char:EOLhyphen"/>zens and Burgeſſes they have elected to Vote, aſſent and diſſent for them in Parliament? And whether the Houſe of Commons be able to produce any one ancient Preſi<g ref="char:EOLhyphen"/>dent before <hi>Queen Maries</hi> Reigne, in all the Parliaments before or ſince the <hi>Conquest,</hi> to warrant their owne ſole <hi>ſuſpentions</hi> or <hi>expulſions</hi> of their owne <hi>Members?</hi> If yea, let them then produce them to ſatisfie the <hi>Kingdome,</hi> which expects an accompt of the juſtice of theſe procee<g ref="char:EOLhyphen"/>dings at their hands: If nay, (as confidently they cannot) then theſe their expulſions and ſuſpenſions muſt of neceſſity be unwarrantable and meerly void in Law, and the ejected and ſuſpended <hi>Members</hi> may and ought to be re-admitted, till they can produce ſufficient evidence and proofe of their ſole Authority to ſuſpend or expell them without the <hi>Kings</hi> or <hi>Lords</hi> concurrence upon full hearing and conviction of ſome horrid crimes, which really diſable them to be Members.</p>
+            <p>Every County, City and Burrough ought <note n="*" place="margin">5. <hi>R.</hi> 2. <hi>Stat.</hi> 2. 0. 4. 7. <hi>H.</hi> 4. <hi>c.</hi> 14. 6 <hi>H.</hi> 6. <hi>c.</hi> 2. 32. <hi>H.</hi> 6. <hi>c.</hi> 6. 9. <hi>H.</hi> 8. <hi>c.</hi> 16. 4. <hi>E.</hi> 4. 44. <hi>b. Cromptons Iu<g ref="char:EOLhyphen"/>riſdiction of Courts, Tit. Parliament.</hi>
+               </note> 
+               <hi>ex debito Iuſtitiae,</hi> to ſend Knights, Citizens and Burgeſſes to con<g ref="char:EOLhyphen"/>ſult, debate, vote, aſſent and diſſent for them in Parlia<g ref="char:EOLhyphen"/>ment, and every of theſe ought to come to the Parlia<g ref="char:EOLhyphen"/>ment when elected, and to continue there all the Seſſion without intermiſſion, unleſſe he can reaſonably excuſe himſelfe by ſickneſſe or otherwiſe, neither ought he to de<g ref="char:EOLhyphen"/>part the Houſe, without ſpeciall licence of the Houſe (and King too anciently) firſt obtained, under paine of
+<pb n="3" facs="tcp:116302:3"/>
+being amerced and otherwiſe puniſhed. And for this very reaſon every Member of Parliament during the Seſ<g ref="char:EOLhyphen"/>ſion of Parliament and ſo many daies before and after, is priviledged and exempted from all Arreſts of his perſon, <note n="*" place="margin">
+                  <hi>Dyer. f.</hi> 60.</note> becauſe he is bound perſonally and conſtantly to attend the Houſe till the Seſſion or Parliament ends, and his preſence ſo neceſſary that he cannot be ſpared, nor abſent upon any occaſion: for proof whereof you may conſult <hi>Modus Tenendi Parliamentum,</hi> Sir <hi>Edward Cook</hi> 4. <hi>Inſtitutes</hi> chap. 1. and the Authorities and Records there cited; how then their <hi>Fellow-Commoners, Knights, Citizens</hi> and <hi>Burgeſſes</hi> can exerciſe or claime any legall Authority or Juriſdiction to eject or ſuſpend any Mem<g ref="char:EOLhyphen"/>ber lawfully elected without legall triall, conviction and the concurrent judgement and conſent of the <hi>whole Par<g ref="char:EOLhyphen"/>liament,</hi> (whereof the Houſe of Commons is but one branch or Member) and that upon ſuch juſt and weigh<g ref="char:EOLhyphen"/>tie reaſons as may ſatisfie the <hi>Freeholders, Citizens,</hi> and <hi>Burgeſſes,</hi> who elected them, whose perſons they repre<g ref="char:EOLhyphen"/>ſent, and whoſe <hi>Attourneyes</hi> and <hi>Proxies</hi> they are, and ſo ought not to be diſcharged of their truſt without their privity by any of their <hi>Fellow-Commoners,</hi> of the juſtice of their expulſion or ſuſpenſion, is a <hi>Moot-point</hi> which concernes the whole Kingdomes Intereſt, and fit to bee reſolved by M. <hi>Speaker</hi> and the Commons of the <hi>Long robe,</hi> in a ſubſtantiall manner for the Kingdomes ſatisfaction: the rather becauſe the <hi>Speaker</hi> of the <hi>Com<g ref="char:EOLhyphen"/>mons Houſe</hi> cannot be removed or changed for ſickneſſe or other cauſe, but by the <hi>Kings and Lords</hi> aſſents, <hi>Cook</hi> 4. Inſtitut. pag. 8. &amp; 39. <hi>H.</hi> 8. num. 38, 39. <hi>Baron Thorpes</hi> Caſe.</p>
+            <p n="3">3. Seeing the Writ for <q rend="margQuotes">"Elections of Knights, Citi<g ref="char:EOLhyphen"/>zens and Burgeſſes cannot be altered in any thing but by Act of Parliament, and all Elections ought to be free<g ref="char:EOLhyphen"/>ly and indifferently made, without any prayer or com<g ref="char:EOLhyphen"/>mandment of the King, by Writ, Letter or otherwiſe, or of any other, and no Letter, Order, or Ordinance can diſa<g ref="char:EOLhyphen"/>ble any freeborn Engliſhman of full age, &amp; not attainted
+<pb n="4" facs="tcp:116302:4"/>
+of Treaſon or Felony to be choſen a Member, but onely an Act of Parliament, as <note n="*" place="margin">4: <hi>Inſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>it: ch:</hi> 
+                     <gap reason="illegible" resp="#APEX" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <hi>p:</hi> 10: 3: <hi>E:</hi> 1: <hi>c:</hi> 1 4: <hi>E:</hi> 4: 44:</note> Sir <hi>Edward Cooke</hi> affirmes, and the Statutes of 5 <hi>R.</hi> 2. Stat. 2. c. 4. 7. <hi>H</hi> 4. c. 15. 32. <hi>H.</hi> 6. c. 15. de<g ref="char:EOLhyphen"/>termine. And ſeeing no Member anciently was or could be diſmiſſed or diſcharged from his attending the Houſe till the Seſſion or Parliament it ſelfe was diſſolved, as is apparent by all the Adjournments, Prorogations, and Diſ<g ref="char:EOLhyphen"/>ſolutions of Parliaments and their formes.</q> How can the Commons Houſe alone, by any clauſe of the <hi>Writ</hi> that ſummons them, or any Law or Statute extant, ſuſpend or expell any untainted Member, before legall triall and con<g ref="char:EOLhyphen"/>viction in full Parliament, without the <hi>Kings</hi> and <hi>Lords</hi> conſents (with whom they are choſen, and truſted to ad<g ref="char:EOLhyphen"/>viſe) againſt the tenor of the Writ, and theſe <hi>Acts;</hi> and diſable any from ſitting or voting as Members, whom the Freeholders, Citizens and Burgeſſes by their free Electi<g ref="char:EOLhyphen"/>ons, and the Lawes and Statutes of the Realm have made as free and abſolute Members in every particular as them<g ref="char:EOLhyphen"/>ſelves who vote them out, and their onely Truſtees and Attorneyes; eſpecially ſince the Commons whom they repreſent, and from whom they derive their power and authority (as the <note n="*" place="margin">
+                  <hi>Cromptons Iuriſdiction, S:</hi> 1, 2:</note> 
+               <hi>Writ</hi> recites) gave them no ſuch Com<g ref="char:EOLhyphen"/>miſſion at all to eject or ſuſpend their fellow-Members, <q rend="margQuotes">"but onely to conſult of, do and aſſent unto ſuch things as ſhould be ordained by the COMMON COVNCELL (not Commons) OF THE REALME in Parliament, concerning the urgent and weighty affaires thereof for which they were ſummoned to adviſe about;</q> of which the ejectment or ſuſpenſion of their Fellow-Commoners certainly was none, neither in the Kings nor Peoples in<g ref="char:EOLhyphen"/>tention, when the Parliament was firſt ſummoned, and they made their elections of thoſe they moſt confided in.</p>
+            <p n="4">4. Whether the Statutes of 5. <hi>Eliz.</hi> c. 1. and 16. <hi>Caroli</hi> made this Parliament, <hi>for preventing the inconveniences hap<g ref="char:EOLhyphen"/>pening by the long intermiſſion of Parliaments,</hi> which enact; <hi>That every perſon which ſhall be elected a Knight, Citizen, or Burgeſſe, or Baron for any Cinque Ports, or any Parliament hereafter to be holden, ſhall before he enter into the Parlia<g ref="char:EOLhyphen"/>ment-Houſe, or have any voice there, openly receive and pro<g ref="char:EOLhyphen"/>nounce</hi>
+               <pb n="5" facs="tcp:116302:4"/>
+               <hi>the Oath of Supremacy before the Lord Steward for the time being, or his Deputies: And that he which ſhall en<g ref="char:EOLhyphen"/>ter into the Parliament-Houſe without taking the ſaid Oath,</hi> SHALL BE DEEMED NO KNIGHT, CITIZEN, BUR<g ref="char:EOLhyphen"/>GESSE, NOR BARON <hi>for that Pailiament,</hi> NOR SHALL HAVE ANY VOICE, <hi>but ſhall be to all intents, con<g ref="char:EOLhyphen"/>ſtructions and purpoſes, as if he had never been elected, nor re<g ref="char:EOLhyphen"/>turned Knight, Citizen, Burgeſſe, or Baron for that Parlia<g ref="char:EOLhyphen"/>ment, and ſhall Suffer ſuch paines and penalties, as if he had preſumed to ſit in the ſame without Election, returne or Au<g ref="char:EOLhyphen"/>thority,</hi> be not a direct reſolution and judgment in print; that no Member of the Houſe of Commons once lawful<g ref="char:EOLhyphen"/>ly elected and returned, can be diſabled to ſit and Vote in the Houſe by his Fellow-Commoners alone, but only by <hi>Act of Parliament,</hi> or joynt-judgement and concurrence of the King, Lords and Commons at the leaſt? And whether the taking <hi>away of the Archbiſhops, and Biſhops Votes this Parliament by a ſpeciall Act of Parliament,</hi> be not a full Declaration of the Law in this particular, that Members of Parliament (eſpecially ſuch as ſit, Vote in o<g ref="char:EOLhyphen"/>thers rights, and behalfes) ought not to be ejected or un<g ref="char:EOLhyphen"/>membred by the Commons, Lords, or King alone, in a di<g ref="char:EOLhyphen"/>vided capacity, but only by Act of Parliament, or by the Kings, Lords and Commons joynt aſſents and judge<g ref="char:EOLhyphen"/>ments, <note place="margin">
+                  <hi>Cook</hi> 4. <hi>Inſtit. c.</hi> 1 <hi>Dyer. f.</hi> 60. <hi>a.</hi> 19. <hi>H.</hi> 6. 63, 64.</note> becauſe <hi>the whole Houſe of Parliament is but one en<g ref="char:EOLhyphen"/>tire body and Court,</hi> which cannot be deprived of the pre<g ref="char:EOLhyphen"/>ſence or aſſiſtance of any one legall Member, but by com<g ref="char:EOLhyphen"/>mon conſent of the whole Body and Court, and not of one branch or Eſtate alone without the other, being contrary to all rules of reaſon and juſtice, and proceedings in other Courts, where one Judge or Juſtice, or Com<g ref="char:EOLhyphen"/>miſſioner cannot be unjudged, unjuſticed, uncommiſſio<g ref="char:EOLhyphen"/>ned by the others alone.</p>
+            <p n="5">5. Whether the Commons late uſurpations of ſuch a power of ſuſpending and ejecting their owne Members (eſpecially without any legall hearing, and examination, <hi>viva voce,</hi> of witneſſes againſt them upon Oath, or ad<g ref="char:EOLhyphen"/>mitting their juſt defence) be not a preſident of very dan<g ref="char:EOLhyphen"/>gerous conſequence, deſtructive to the very <hi>freedome</hi> and
+<pb n="5" facs="tcp:116302:5"/>
+               <hi>being</hi> of <hi>Parliaments</hi> and <hi>Counſells,</hi> wherein all Members <note place="margin">
+                  <hi>Cook.</hi> 4. <hi>Instit. p.</hi> 8.</note> ought to have <hi>equall liberty and freedome of ſpeech</hi> and ad<g ref="char:EOLhyphen"/>vice, and to carry all things by <hi>plurality of voices,</hi> and ſtrength of argument, not by new deviſed ſuſpenſions and expulſions, ſeeing it gives the ſtrongeſt party and faction a liberty to expell the weaker, and the leſſer num<g ref="char:EOLhyphen"/>ber backed with an armed-force, a poſſibility not only to pack and make a Houſe of what Members they thinke meet, and eject and over-Vote the greater part of the Houſe upon meer pretended offences and Miſdemea<g ref="char:EOLhyphen"/>nours, and then to vote and paſſe what Acts and Ordi<g ref="char:EOLhyphen"/>nances they pleaſe in a thin and empty <hi>Parliament,</hi> when the major part of the Members are ſuſpended, ejected, or forced away? And whether all thoſe Counties, Ci<g ref="char:EOLhyphen"/>ties and Burroughs, whoſe Knights, Citizens and Burgeſſes have been or may be thus ejected, and the whole King<g ref="char:EOLhyphen"/>dome too concerned in it, be not bound in point of conſcience and duty for the maintenance of the Honour, Freedome, and fulneſſe of Parliaments, and their owne and the Kingdomes ſafety, publikely to proteſt a<g ref="char:EOLhyphen"/>gainſt it.</p>
+            <p n="6">6. Whether the Commons ſuſpending and ejecting of their Members by their own ſole Votes and power, gives not the King and Lords (who are Judges in Parliament) a like Authority, joyntly or ſeverally to impriſon, eject or ſuſpend the Members of the Commons Houſe without the Commons conſents as well as the Commons, who have no ſole Judicature, and are but inferiour Members and no Court of Parliament alone, and ſo juſtifies the Kings impriſonment, and impeachment of any Members in this and former Parliaments, without the Lords or Commons, who hath a greater Juriſdiction over any Members of either Houſe, being his Subjects and the <note n="*" place="margin">Modus tenen<g ref="char:EOLhyphen"/>di Parliamen<g ref="char:EOLhyphen"/>tum.</note> 
+               <hi>chiefe Members of Parliament,</hi> who ſummons and diſ<g ref="char:EOLhyphen"/>ſolves it, then any Members have over their Fellow-Mem<g ref="char:EOLhyphen"/>bers and Subjects.</p>
+            <p n="7">7. Whether thoſe Counties, Cities, and Burroughs whoſe choſen Knights, Citizens and Burgeſſes have been <note place="margin">
+                  <hi>Co.</hi> 4. <hi>Inſtitut. p.</hi> 1. 25.</note> thus illegally ſuſpended or ejected without and againſt
+<pb n="7" facs="tcp:116302:5"/>
+their privities or conſents, or any revocation of that truſt and power wherewith they inveſt them, are or can in point of Law or juſtice be obliged by any Votes, Orders or Ordinances of one or both Houſes, to which themſelves, nor thoſe they elected, by reaſon of their illegall ejections or ſuſpenſions, either did or could aſſent, &amp; to which perchance they would not have aſſent<g ref="char:EOLhyphen"/>ed, but voted againſt and over-ruled by the majority and plura<g ref="char:EOLhyphen"/>lity of voices, if preſent and admitted to give their Votes? The rather, becauſe our <note n="*" place="margin">7: <hi>H:</hi> 6: 35: b. <hi>Bro: Waſt:</hi> 81: <hi>Dyer:</hi> 373: b.</note> 
+               <hi>Law Books</hi> are expreſſe, <q rend="margQuotes">'That Tenants in ancient Demeſne were not bound by Acts of Parliament here<g ref="char:EOLhyphen"/>tofore, becauſe they ſent no Knights nor Burgeſſes to the Par<g ref="char:EOLhyphen"/>liament, which contribute to their wages, and ſo neither did nor could aſſent unto them by their Repreſentatives or them<g ref="char:EOLhyphen"/>ſelves:'</q> &amp;, <hi>Quod omnes tangit, ab omnibus debet approbari:</hi> the very ground why any Acts of Parliament bind all being onely this, <note n="*" place="margin">39: <hi>E:</hi> 3: 7: <hi>Cook</hi> 4: <hi>Inſtit: c:</hi> 1: 3: <hi>E: <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>:</hi> 1: 4: <hi>E:</hi> 4 44:</note> 
+               <hi>Becauſe all are conſenting to them in their Knights and Bur<g ref="char:EOLhyphen"/>geſſes.</hi> But thoſe whoſe Knights and Burgeſſes are either expel<g ref="char:EOLhyphen"/>led or ſuſpended the Houſe, without and againſt their good wills, neither do, nor can be legally ſaid to aſſent to any Votes, Orders or Ordinances, no nor Acts of Parliament made after their expulſions or ſuſpenſions (recorded in the <hi>Iournall Book,</hi> which abſentees are not, and therfore are intended alwayes pre<g ref="char:EOLhyphen"/>ſent:) how then thoſe Counties, Cities, Burroughs, can be obli<g ref="char:EOLhyphen"/>ged by them, it behoves the Commons who ejected and ſuſpen<g ref="char:EOLhyphen"/>ded them to declare in print, if they expect any future ſubmiſſi<g ref="char:EOLhyphen"/>on to their Votes, or Taxes from them, to which they did not conſent?</p>
+            <p n="8">8. Whether, ſince every Knight, Citizen and Burgeſſe is cho<g ref="char:EOLhyphen"/>ſen and called to attend the Parliament only by the <hi>Kings Writ,</hi> and may be amerced, fined, and otherwiſe puniſhed by virtue of the Writ it ſelf, by the Statute of 5: <hi>R:</hi> 2: c: 4: the Common Law of the Realme and cuſtome of Parliament, 3: <hi>E:</hi> 3: <hi>coram Rege, Rot: P:</hi> 3: <hi>E:</hi> 3: 13: <hi>Stamfords Pleas, f:</hi> 38: 155: <hi>Cooke</hi> 4: <hi>Inſtit: p:</hi> 15 to 22: in caſe he abſent himſelf or depart from Parliament with<g ref="char:EOLhyphen"/>out the Kings licenſe, unleſſe he can <hi>honeſtly excuſe himſelfe to our Lord the King.</hi> And ſince the words and forme of diſſolving Parliaments, <hi>The King licenſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Lords and Commons to depart,</hi> &amp;c. 37: <hi>E:</hi> 
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>: n: 34: 38: <hi>E:</hi> 
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>: n: 18: 4<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>: <hi>E:</hi> 3. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>: 1<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>: 43: <hi>E:</hi> 3: n: 34: 45: <hi>E:</hi> 3: n: 9: 13: and all diſſolutions of Parliament ſince, which in<g ref="char:EOLhyphen"/>timates, that none but the King, who ſummons all Members to
+<pb n="8" facs="tcp:116302:6"/>
+Parliament, can remove or diſcharge them, without the Kings conſent: whether the Commons alone, without his or the Lords privity, can lawfully ſuſpend, eject or diſcharge any of their Members, upon any pretence?</p>
+            <p n="9">9. Whether thoſe Members who have been ejected or ſuſ<g ref="char:EOLhyphen"/>pended in a thin and empty, may not appeal to a full <hi>Houſe of Commons</hi> for juſtice and reſtitution, or at leaſt wiſe to the <hi>upper Houſe of Peeres,</hi> to whom the <hi>power of Judicature</hi> in Parliament appertains of ancient right, not only in the caſes of <hi>Peers,</hi> and other <hi>Commons,</hi> but even in caſes of illegall <hi>Elections</hi> and <hi>Re<g ref="char:EOLhyphen"/>turnes,</hi> and breach of <hi>Priviledge</hi> by <hi>impriſonment</hi> of Knights and Burgeſſes of the <hi>Commons Houſe,</hi> as is evident by <note n="*" place="margin">
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>: <hi>H:</hi> 4: <hi>Rot: Parl:</hi> n: 38: 31: <hi>H:</hi> 6: n: 25, 26, 27, 28, 29: <hi>Thorpes Caſe.</hi>
+               </note> 
+               <hi>ſome notable Records:</hi> And whether a Writ of <hi>Restitution</hi> lies not to the Commons Houſe to reſtore and re-admit an ejected or disfran<g ref="char:EOLhyphen"/>chiſed Member, as well as an ejected or disfranchiſed Citizen, Al<g ref="char:EOLhyphen"/>derman, Mayor or Common Councell-man; of which there are ſundry preſidents in Sir <hi>Iames Boggs</hi> Caſe, &amp; M. <hi>Eſtwicks</hi> of late.</p>
+            <p n="10">10. Whether the ejecting of the Members lately impeached in the name of the <hi>Army</hi> onely, without any particular Proſe<g ref="char:EOLhyphen"/>cutor, perſonall ſummons, hearing, defence, or once reading, debating, or over-ruling the Anſwer and Demurrer put in by them in writing under their hands to <hi>the particular Articles of their Charge,</hi> (even whiles a Garriſon of their Proſecutors and Accuſers are reſiding at White-Hall, the Mues, and Tower of London, and a guard of them attending at the Commons door;) and the voting of M. <hi>Glyn Recorder of London</hi> and <hi>Steward of Westminster,</hi> not only out of the Houſe, but out of his Record<g ref="char:EOLhyphen"/>erſhip and Stwewardſhip (being his <hi>freehold)</hi> without ever be<g ref="char:EOLhyphen"/>ing heard, or ſummoned to anſwer any Charge or Articles con<g ref="char:EOLhyphen"/>c<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rning them; and that about 7. or 8. a clock on a Saturday at night, when there were not above 51 preſent in the Houſe, and accommending others to his places, which are not in the <hi>Com<g ref="char:EOLhyphen"/>mons</hi> diſpoſall, be not an uſurping or exerciſing of a tranſcen<g ref="char:EOLhyphen"/>dent <hi>arbitrary and tyrannicall power,</hi> contrary to <hi>Magna Char<g ref="char:EOLhyphen"/>ta,</hi> ch. 29. and <note n="*" place="margin">
+                  <hi>Collected and recited in</hi> Ra<g ref="char:EOLhyphen"/>ſtall, <hi>Tit.</hi> Accu<g ref="char:EOLhyphen"/>ſation: <hi>&amp; the Petition of Right.</hi>
+               </note> ſundry other Statutes, the fundamentall Lawes of the Realme, the Liberties of the Subject, the Solemne League and Covenant, and <hi>ſundry Remonſtrances and Declarations of both Houſes;</hi> and an higher act of tyranny and injuſtice then e<g ref="char:EOLhyphen"/>ver King <hi>Charles, Strafford, Canterbury, the Councell-Table, or High Commiſſion</hi> were guilty of in the worſt times; for which
+<pb n="9" facs="tcp:116302:6"/>
+thoſe Members who did it, are in point of juſtice obliged to give their abſent and diſſenting Members (farre the major part) and the ejected Members, thoſe for whom they ſerve, and the whole Kingdome ſatisfaction and reparation, to prevent the like proceedings againſt other Members, and Freemen who are no Members, who may juſtly fear far harder meaſure from them upon all occaſions, ſince they are ſo arbitrary and unjuſt towards their own deare Members, ſome whereof have deſerved as well, and done as good ſervice for the Realme and Kingdome, as any now ſitting in the Houſe.</p>
+            <p n="11">11. Whether ſome of the <hi>Commons</hi> impeaching of their own Members, Lords and Citizens of <hi>high Treaſon,</hi> for ſitting and <hi>acting in the Houſes,</hi> or by <hi>Orders, Votes</hi> and commands of one or both Houſes, only for their <hi>ſelf-defence</hi> againſt the Ar<g ref="char:EOLhyphen"/>mies violence, and the fugitive Speakers and Members who in<g ref="char:EOLhyphen"/>gaged with them, who were not a Parliament in the Army, and not half ſo many as thoſe who continued ſitting in the Houſes, be not a dangerous and inevitable impeachment of themſelves, both Houſes of Parliament, and all thoſe who have acted under them by vertue of their Ordinances and Commiſſions, ever ſince the Kings departure from the Houſes, in military, judiciall or criminall affairs, for Traitors &amp; high Treaſon, and a nulling of all <hi>Ordinances for Indempnity,</hi> who have no other <hi>Plea in Barre,</hi> or <hi>Juſtiſication</hi> to beare them out, or protect them againſt the King, or any other that ſhall indict, impeach, ſue or queſtion them now or hereafter, but only this, that what they ſpake, vo<g ref="char:EOLhyphen"/>ted, ordained, did or acted, was in, or by authority of Parlia<g ref="char:EOLhyphen"/>ment, or in obedience to the Votes, Orders, Ordinances or Commiſſions of one or both Houſes; which Plea theſe im<g ref="char:EOLhyphen"/>peachments utterly ſubverting, muſt of neceſſity expoſe all and every Member of both Houſes, and all who have acted for, or adhered to them during theſe warres, to the meere mercileſſe tyranny of the King and his Cavaliers, if ever they prevaile in preſent or future times, and declare them guilty of high Trea<g ref="char:EOLhyphen"/>ſon; and ſo diſ-ingage and diſcourage all men from adhering to, or acting for or under them any more, to prevent the guilt and danger of high Treaſon: which ſeriouſly conſidered, may juſtly ingage both Houſes, and all thoſe who have cordially ad<g ref="char:EOLhyphen"/>hered to, and ſerved under them, to queſtion and impeach thoſe of <hi>high Treaſon,</hi> who were the plotters and contrivers of theſe
+<pb n="10" facs="tcp:116302:7"/>
+Impeachments of ſo dangerous and deſtructive conſequence to both Houſes, and all their cordiall friends and adherents, who ſtand amazed at ſuch proceedings.</p>
+            <p n="12">12. Whether ſome Commoners impeachment of ſeven Lords at once of <hi>High Treaſon,</hi> and ſuſpending them the Houſe, be not a plot of <hi>Cromwell</hi> and the <hi>Levellers,</hi> to deſtroy and abo<g ref="char:EOLhyphen"/>liſh the Houſe of Peers, by leaving them not Members enough to ſit and make an Houſe by degrees? and what aſſurance have the few remaining unimpeached Lords, if they condemne or eject thoſe now impeached for what they did or acted in or by authority of Parliament for their owne defence, and the Houſes againſt the <hi>Army,</hi> that their turnes and impeach<g ref="char:EOLhyphen"/>ments will not be next, till they be all impeached, ejected and made no Houſe, ſince there is an apparent deſigne in ma<g ref="char:EOLhyphen"/>ny of the proſecutors of the Lords impeached to have no Houſe of Peers, or Lords at all to overtop them, that they may be the onely Lords and Kings themſelves, and command and diſpoſe of all things at their pleaſures, as they have for the moſt part done of late, before and without the Lords concurrence. If ſo, (as is very probable) it will be wiſdome in the Houſe of Lords to conſider and prevent this Deſigne in time, be<g ref="char:EOLhyphen"/>fore it be too late, and to make no Preſidents to deſtroy themſelves, and the very freedome and being of Parliaments and Peers, after ſo vaſt an expence of blood and treaſure to de<g ref="char:EOLhyphen"/>fend them againſt the King and his armed party, whoſe de<g ref="char:EOLhyphen"/>ſignes are now almoſt accompliſhed againſt them by thoſe <hi>Heads</hi> and <hi>Hands</hi> which of all others we did leaſt ſuſpect, who reallize and verifie this <hi>Adagy</hi> to the full,
+<q>Nulla fides pietáſque viris qui caſtra ſequantur.</q>
+To cloſe up all; Let the Commons conſider well of S. <hi>Pauls</hi> caution, <hi>Gal.</hi> 5. 15. <hi>But if ye bite and devoure one another, take heed that ye be not conſumed one of another.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:116302:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
